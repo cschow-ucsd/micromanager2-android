@@ -15,7 +15,6 @@
 
 #amplify
 amplify/
-.graphqlconfig.yml
 amplify/\#current-cloud-backend
 amplify/.config/local-*
 amplify/mock-data
